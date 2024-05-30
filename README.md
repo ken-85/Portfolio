@@ -1,1 +1,1 @@
-visit: https://bpn-portfolio.netlify.app/#project
+visit: https://portfolio-nom8ayr9m-kinchok-wangdi-lepchas-projects.vercel.app/
