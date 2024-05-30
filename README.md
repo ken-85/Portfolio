@@ -1,1 +1,1 @@
-visit: https://vercel.com/kinchok-wangdi-lepchas-projects/portfolio/GbeRAv9Ei2Xhu27t9kMsydUwxbJt
+visit: https://portfolio-nom8ayr9m-kinchok-wangdi-lepchas-projects.vercel.app/
