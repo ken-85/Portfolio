@@ -1,2 +1,2 @@
-visit: portfolio-bay-ten-40.vercel.app
+visit: https://portfolio-bay-ten-40.vercel.app/
 
